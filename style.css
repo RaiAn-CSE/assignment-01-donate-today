@@ -13,6 +13,7 @@ body {
     margin-bottom: 100px;
 }
 
+
 .intro-text {
     padding-top: 170px;
     width: 100%;
@@ -54,6 +55,10 @@ body {
 /*<-----------------------------------------<(Donate Today)>--------------------------------------->*/
 .donate-money {
     text-align: center;
+}
+
+.donate-money p {
+    color: #707070;
 }
 
 .select-amount {
@@ -115,6 +120,7 @@ body {
 
 .donate-item p {
     text-align: center;
+    color: #707070;
 }
 
 .plan-items {
@@ -168,6 +174,10 @@ body {
 
 .subscribe-section h1 {
     font-size: 30px;
+}
+
+.subscribe-section p {
+    color: #707070;
 }
 
 .subscribe-class {
