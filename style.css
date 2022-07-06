@@ -141,16 +141,22 @@ body {
     margin-left: 100px;
     margin-right: 20px;
     background-color: #4f9da62c;
+    border-radius: 10px;
+    box-shadow: 0 0 20px gray;
 }
 
 .shelter-plan {
     margin-right: 20px;
     background-color: #ff59592d;
+    border-radius: 10px;
+    box-shadow: 0 0 20px gray;
 }
 
 .education-plan {
     margin-right: 100px;
     background-color: #fff4d6b3;
+    border-radius: 10px;
+    box-shadow: 0 0 20px gray;
 }
 
 /*<-----------------------------------------<(Subscribe Section)>--------------------------------------->*/
